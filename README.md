@@ -5,18 +5,18 @@ Final Project:
 CS 6364.001 Artificial Intelligence
 Swapna Chintapalli - SXC180048
 
-################################################
+==================================================
 Files Included:
-################################################
+==================================================
 last_mouse_lost.py - Main program to read input and call algorithm to solve problem.
 board.py - Consists initial board configuration.
 player.py - Implements player functionalities.
 smart_player.py - Implements smart player moves.
 Report.pdf - Project Report.
 
-################################################
+==================================================
 Instructions to run program:
-################################################
+==================================================
 IDE used Eclipse Photon Release (4.8.0)
 Python: 3.7
 - Create new Python Project.
@@ -28,9 +28,9 @@ Python: 3.7
 			
 			
 			
-################################################
+==================================================
 Sample Input and its corresponding output:
-################################################
+==================================================
 After running last_mouse_lost.py: 
 ==================================================
 	Welcome to Last Mouse Lost Game:
